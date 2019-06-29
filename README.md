@@ -12,6 +12,8 @@ The dataset is comprised of tab-separated files with phrases from the Rotten Tom
 - Each sentence has a *SentenceId*.
 - Phrases that are repeated (such as short/common words) are only included once in the data.
 
+You can get a quick **Overview** to this dataset with this : [Overview](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/overview)
+
 #### Data files
 - **train.tsv**
 contains the phrases and their associated sentiment labels.
